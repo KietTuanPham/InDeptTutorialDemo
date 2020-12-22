@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <BOModel>
+    <Class Name="InDeptTutorialDemo.Module.BusinessObjects.Contact">
+      <OwnMembers>
+        <Member Name="Position" DataSourcePropertyIsNullMode="SelectAll" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.2.4.0" IsNewNode="True" />
+    <SchemaModule Name="SystemWindowsFormsModule" Version="20.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="InDeptTutorialDemo">
+  <BOModel>
+    <Class Name="InDeptTutorialDemo.Module.BusinessObjects.Payment">
+      <OwnMembers>
+        <Member Name="Rate" ImmediatePostData="True" />
+      </OwnMembers>
+    </Class>
+  </BOModel>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>

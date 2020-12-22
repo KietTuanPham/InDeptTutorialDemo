@@ -1,0 +1,90 @@
+﻿Installing assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Installing service TempWorkflowServerWorkflowServer...
+Creating EventLog source TempWorkflowServerWorkflowServer in log Application...
+Rolling back assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Restoring event log to previous state for source TempWorkflowServerWorkflowServer.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Installing service TempWorkflowServerWorkflowServer...
+Creating EventLog source TempWorkflowServerWorkflowServer in log Application...
+Rolling back assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Restoring event log to previous state for source TempWorkflowServerWorkflowServer.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Installing service TempWorkflowServerWorkflowServer...
+Creating EventLog source TempWorkflowServerWorkflowServer in log Application...
+Rolling back assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Restoring event log to previous state for source TempWorkflowServerWorkflowServer.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Installing service TempWorkflowServerWorkflowServer...
+Service TempWorkflowServerWorkflowServer has been successfully installed.
+Creating EventLog source TempWorkflowServerWorkflowServer in log Application...
+Committing assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Uninstalling assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Removing EventLog source TempWorkflowServerWorkflowServer.
+Service TempWorkflowServerWorkflowServer is being removed from the system...
+Service TempWorkflowServerWorkflowServer was successfully removed from the system.
+Installing assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Installing service TempWorkflowServerWorkflowServer...
+Service TempWorkflowServerWorkflowServer has been successfully installed.
+Creating EventLog source TempWorkflowServerWorkflowServer in log Application...
+Committing assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Uninstalling assembly 'C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.InstallLog
+   assemblypath = C:\Users\ASUS\source\repos\InDeptTutorialDemo\TempWorkflowServer\bin\Debug\tempworkflowserver.workflowserverservice.exe
+Removing EventLog source TempWorkflowServerWorkflowServer.
+Service TempWorkflowServerWorkflowServer is being removed from the system...
+Service TempWorkflowServerWorkflowServer was successfully removed from the system.
